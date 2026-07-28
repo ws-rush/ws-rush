@@ -24,6 +24,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 </div>
 
-###
+---
 
-<img src="https://raw.githubusercontent.com/ws-rush/ws-rush/refs/heads/main/profile-3d-contrib/profile-gitblock.svg" />
+## Public Repository Stats
+
+<p align="center" >
+  <picture>
+    <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/ws-rush/ws-rush/refs/heads/main/profile-3d-contrib/profile-gitblock.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ws-rush/ws-rush/refs/heads/main/profile-3d-contrib/profile-gitblock.svg" />
+    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/sammcj/sammcj/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  </picture>
+</p>
