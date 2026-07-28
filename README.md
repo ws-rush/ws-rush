@@ -12,7 +12,7 @@
 
 ## Contact
 
-- 🌎 [smcleod.net](https://wusaby.com)
+- 🌎 [wusaby.com](https://wusaby.com)
 - 🧑‍💻 [Github](https://www.github.com/ws-rush)
 - 👔 [LinkedIn](https://www.linkedin.com/in/ws-rush)
 - ✖️ [X](https://x.com/ws_rushx)
