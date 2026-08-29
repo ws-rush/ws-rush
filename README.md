@@ -12,7 +12,7 @@
 
 ## Contact
 
-- 🌎 [wusaby.com](https://wusaby.com)
+- 🌎 [byrush.me](https://byrush.me)
 - 🧑‍💻 [Github](https://www.github.com/ws-rush)
 - 👔 [LinkedIn](https://www.linkedin.com/in/ws-rush)
 - ✖️ [X](https://x.com/ws_rushx)
