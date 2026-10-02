@@ -21,8 +21,6 @@
 
 ## Public Repository Stats
 
-<img src="https://gitranks.com/api/badge/v2/ws-rush?ranking=s&context=country&type=position&meta=percentile&label=Stars+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%232282c2" />
-
 <p align="center" >
   <picture>
     <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/ws-rush/ws-rush/refs/heads/main/profile-3d-contrib/profile-gitblock.svg" />
